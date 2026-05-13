@@ -1,0 +1,236 @@
+{
+  "2xl": {
+    "blur": {
+      "$type": "number",
+      "$value": 50
+    },
+    "color": {
+      "$type": "color",
+      "$value": "{black.alpha-10}"
+    },
+    "spread": {
+      "$type": "number",
+      "$value": -12
+    },
+    "x": {
+      "$type": "number",
+      "$value": 0
+    },
+    "y": {
+      "$type": "number",
+      "$value": 25
+    }
+  },
+  "2xs": {
+    "blur": {
+      "$type": "number",
+      "$value": 0
+    },
+    "color": {
+      "$type": "color",
+      "$value": "{black.alpha-0}"
+    },
+    "spread": {
+      "$type": "number",
+      "$value": 0
+    },
+    "x": {
+      "$type": "number",
+      "$value": 0
+    },
+    "y": {
+      "$type": "number",
+      "$value": 1
+    }
+  },
+  "lg": {
+    "color": {
+      "$type": "color",
+      "$value": "{black.alpha-10}"
+    },
+    "shadow 1": {
+      "blur": {
+        "$type": "number",
+        "$value": 15
+      },
+      "spread": {
+        "$type": "number",
+        "$value": -3
+      },
+      "x": {
+        "$type": "number",
+        "$value": 0
+      },
+      "y": {
+        "$type": "number",
+        "$value": 10
+      }
+    },
+    "shadow 2": {
+      "blur": {
+        "$type": "number",
+        "$value": 6
+      },
+      "spread": {
+        "$type": "number",
+        "$value": -4
+      },
+      "x": {
+        "$type": "number",
+        "$value": 0
+      },
+      "y": {
+        "$type": "number",
+        "$value": 4
+      }
+    }
+  },
+  "md": {
+    "color": {
+      "$type": "color",
+      "$value": "{black.alpha-10}"
+    },
+    "shadow 1": {
+      "blur": {
+        "$type": "number",
+        "$value": 6
+      },
+      "spread": {
+        "$type": "number",
+        "$value": -1
+      },
+      "x": {
+        "$type": "number",
+        "$value": 0
+      },
+      "y": {
+        "$type": "number",
+        "$value": 4
+      }
+    },
+    "shadow 2": {
+      "blur": {
+        "$type": "number",
+        "$value": 4
+      },
+      "spread": {
+        "$type": "number",
+        "$value": -2
+      },
+      "x": {
+        "$type": "number",
+        "$value": 0
+      },
+      "y": {
+        "$type": "number",
+        "$value": 2
+      }
+    }
+  },
+  "sm": {
+    "color": {
+      "$type": "color",
+      "$value": "{black.alpha-10}"
+    },
+    "shadow 1": {
+      "blur": {
+        "$type": "number",
+        "$value": 3
+      },
+      "spread": {
+        "$type": "number",
+        "$value": 0
+      },
+      "x": {
+        "$type": "number",
+        "$value": 0
+      },
+      "y": {
+        "$type": "number",
+        "$value": 1
+      }
+    },
+    "shadow 2": {
+      "blur": {
+        "$type": "number",
+        "$value": 2
+      },
+      "spread": {
+        "$type": "number",
+        "$value": -1
+      },
+      "x2": {
+        "$type": "number",
+        "$value": 0
+      },
+      "y": {
+        "$type": "number",
+        "$value": 1
+      }
+    }
+  },
+  "xl": {
+    "color": {
+      "$type": "color",
+      "$value": "{black.alpha-10}"
+    },
+    "shadow 1": {
+      "blur": {
+        "$type": "number",
+        "$value": 25
+      },
+      "spread": {
+        "$type": "number",
+        "$value": -5
+      },
+      "x": {
+        "$type": "number",
+        "$value": 0
+      },
+      "y": {
+        "$type": "number",
+        "$value": 20
+      }
+    },
+    "shadow 2": {
+      "blur": {
+        "$type": "number",
+        "$value": 10
+      },
+      "spread": {
+        "$type": "number",
+        "$value": -6
+      },
+      "x": {
+        "$type": "number",
+        "$value": 0
+      },
+      "y": {
+        "$type": "number",
+        "$value": 8
+      }
+    }
+  },
+  "xs": {
+    "blur": {
+      "$type": "number",
+      "$value": 2
+    },
+    "color": {
+      "$type": "color",
+      "$value": "{black.alpha-0}"
+    },
+    "spread": {
+      "$type": "number",
+      "$value": 0
+    },
+    "x": {
+      "$type": "number",
+      "$value": 0
+    },
+    "y": {
+      "$type": "number",
+      "$value": 1
+    }
+  }
+}
