@@ -1,0 +1,13 @@
+:root {
+  --color-categorical-chart-1: #f54a00;
+  --color-categorical-chart-2: #009689;
+  --color-categorical-chart-3: #104e64;
+  --color-categorical-chart-4: #ffb900;
+  --color-categorical-chart-5: #fe9a00;
+  --color-sentiment-negative: #f54a00;
+  --color-sentiment-positive: #009689;
+  --color-shades-fill: rgba(191, 222, 255, 0.7);
+  --color-shades-fill-2: rgba(170, 204, 255, 0.7);
+  --color-shades-stroke: #8ec5ff;
+  --color-shades-stroke-2: #3f8dff;
+}
