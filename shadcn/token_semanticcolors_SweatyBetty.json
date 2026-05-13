@@ -1,0 +1,241 @@
+{
+  "Extensions": {
+    "accent 0": {
+      "$type": "color",
+      "$value": "{brand-neutrals.50}"
+    },
+    "accent 2": {
+      "$type": "color",
+      "$value": "{brand-neutrals.200}"
+    },
+    "accent 3": {
+      "$type": "color",
+      "$value": "{brand-neutrals.300}"
+    },
+    "backdrop": {
+      "$type": "color",
+      "$value": "{black.alpha-60}"
+    },
+    "body background": {
+      "$type": "color",
+      "$value": "{white.alpha-100}"
+    },
+    "border 0": {
+      "$type": "color",
+      "$value": "{brand-neutrals.50}"
+    },
+    "border 1": {
+      "$type": "color",
+      "$value": "{brand-neutrals.100}"
+    },
+    "border 3": {
+      "$type": "color",
+      "$value": "{brand-neutrals.300}"
+    },
+    "border 4": {
+      "$type": "color",
+      "$value": "{brand-neutrals.400}"
+    },
+    "border 5": {
+      "$type": "color",
+      "$value": "{brand-neutrals.500}"
+    },
+    "destructive border": {
+      "$type": "color",
+      "$value": "{red.500}"
+    },
+    "destructive subtle": {
+      "$type": "color",
+      "$value": "{red.50}"
+    },
+    "destructive text": {
+      "$type": "color",
+      "$value": "{red.600}"
+    },
+    "foreground alt": {
+      "$type": "color",
+      "$value": "{brand-neutrals.700}",
+      "$description": "Please use this for body text."
+    },
+    "ghost": {
+      "$type": "color",
+      "$value": "{white.alpha-001}"
+    },
+    "ghost foreground": {
+      "$type": "color",
+      "$value": "{brand-neutrals.700}"
+    },
+    "ghost hover": {
+      "$type": "color",
+      "$value": "{black.alpha-5}"
+    },
+    "mid alt": {
+      "$type": "color",
+      "$value": "{brand-neutrals.600}"
+    },
+    "outline": {
+      "$type": "color",
+      "$value": "{white.alpha-10}"
+    },
+    "outline active": {
+      "$type": "color",
+      "$value": "{black.alpha-5}"
+    },
+    "outline hover": {
+      "$type": "color",
+      "$value": "{black.alpha-333}"
+    },
+    "primary hover": {
+      "$type": "color",
+      "$value": "{brand-neutrals.700}"
+    },
+    "secondary hover": {
+      "$type": "color",
+      "$value": "{brand-neutrals.50}"
+    }
+  },
+  "card": {
+    "card": {
+      "$type": "color",
+      "$value": "{white.alpha-100}"
+    },
+    "card foreground": {
+      "$type": "color",
+      "$value": "{brand-neutrals.950}"
+    }
+  },
+  "focus": {
+    "ring": {
+      "$type": "color",
+      "$value": "{brand-neutrals.300}",
+      "$description": "Focus ring"
+    },
+    "ring error": {
+      "$type": "color",
+      "$value": "{red.300}",
+      "$description": "Focus ring error"
+    }
+  },
+  "general": {
+    "accent": {
+      "$type": "color",
+      "$value": "{brand-neutrals.100}",
+      "$description": "Level 1, official"
+    },
+    "accent foreground": {
+      "$type": "color",
+      "$value": "{brand-neutrals.900}"
+    },
+    "background": {
+      "$type": "color",
+      "$value": "{white.alpha-100}",
+      "$description": "Use for general backgrounds, white text on dark backgrounds."
+    },
+    "border": {
+      "$type": "color",
+      "$value": "{brand-neutrals.200}",
+      "$description": "level 2, official. See docs."
+    },
+    "destructive": {
+      "$type": "color",
+      "$value": "{red.600}"
+    },
+    "destructive foreground": {
+      "$type": "color",
+      "$value": "{white.alpha-100}"
+    },
+    "foreground": {
+      "$type": "color",
+      "$value": "{brand-neutrals.950}",
+      "$description": "Used for dark text on light backgrounds."
+    },
+    "input": {
+      "$type": "color",
+      "$value": "{white.alpha-100}"
+    },
+    "muted": {
+      "$type": "color",
+      "$value": "{brand-neutrals.100}"
+    },
+    "muted foreground": {
+      "$type": "color",
+      "$value": "{brand-neutrals.500}"
+    },
+    "primary": {
+      "$type": "color",
+      "$value": "{brand-neutrals.900}"
+    },
+    "primary foreground": {
+      "$type": "color",
+      "$value": "{brand-neutrals.50}"
+    },
+    "secondary": {
+      "$type": "color",
+      "$value": "{brand-neutrals.100}"
+    },
+    "secondary foreground": {
+      "$type": "color",
+      "$value": "{brand-neutrals.900}"
+    }
+  },
+  "kx-shadcn-docs": {
+    "obra shadcn ui docs 1": {
+      "$type": "color",
+      "$value": "{blue.200}"
+    },
+    "obra shadcn ui docs 2": {
+      "$type": "color",
+      "$value": "{orange.100}"
+    }
+  },
+  "popover": {
+    "popover": {
+      "$type": "color",
+      "$value": "{black.alpha-100}"
+    },
+    "popover foreground": {
+      "$type": "color",
+      "$value": "{white.alpha-100}"
+    }
+  },
+  "sidebar": {
+    "muted": {
+      "sidebar muted": {
+        "$type": "color",
+        "$value": "{brand-neutrals.500}"
+      }
+    },
+    "sidebar": {
+      "$type": "color",
+      "$value": "{brand-neutrals.50}"
+    },
+    "sidebar accent": {
+      "$type": "color",
+      "$value": "{brand-neutrals.100}"
+    },
+    "sidebar accent foreground": {
+      "$type": "color",
+      "$value": "{brand-neutrals.900}"
+    },
+    "sidebar border": {
+      "$type": "color",
+      "$value": "{brand-neutrals.200}"
+    },
+    "sidebar foreground": {
+      "$type": "color",
+      "$value": "{brand-neutrals.700}"
+    },
+    "sidebar primary": {
+      "$type": "color",
+      "$value": "{brand-neutrals.900}"
+    },
+    "sidebar primary foreground": {
+      "$type": "color",
+      "$value": "{brand-neutrals.50}"
+    },
+    "sidebar ring": {
+      "$type": "color",
+      "$value": "{brand-neutrals.300}"
+    }
+  }
+}
