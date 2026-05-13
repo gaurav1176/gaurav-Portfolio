@@ -1,0 +1,21 @@
+:root {
+  --content-caption-font-weight: Regular;
+  --content-font-definitions-font-family: NaN Metrify A Standard;
+  --content-font-definitions-font-family-body: NaN Metrify A Standard;
+  --content-font-definitions-font-family-display-1: NaN Metrify A Wide;
+  --content-font-definitions-font-family-display-2: NaN Metrify A Wide;
+  --content-font-definitions-font-family-headings: NaN Metrify A Standard;
+  --content-font-definitions-font-family-monospace: NaNMetrify;
+  --content-heading-1-font-family: NaN Metrify A Standard;
+  --content-heading-1-weight: Semibold;
+  --content-heading-2-font-family: NaN Metrify A Standard;
+  --content-heading-2-weight: Semibold;
+  --content-heading-3-font-family: NaN Metrify A Standard;
+  --content-heading-3-heading-3-weight: Semibold;
+  --content-heading-4-font-family: NaN Metrify A Standard;
+  --content-heading-4-weight: Semibold;
+  --content-monospaced-font-weight: Regular;
+  --content-paragraph-paragraph-bold-weight: Semibold;
+  --content-paragraph-paragraph-medium-weight: Medium;
+  --content-paragraph-paragraph-weight: Regular;
+}
