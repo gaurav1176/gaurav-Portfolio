@@ -1,0 +1,21 @@
+:root {
+  --content-caption-font-weight: Regular;
+  --content-font-definitions-font-family: Aeonik;
+  --content-font-definitions-font-family-body: Aeonik;
+  --content-font-definitions-font-family-display-1: Aeonik;
+  --content-font-definitions-font-family-display-2: Aeonik;
+  --content-font-definitions-font-family-headings: Aeonik;
+  --content-font-definitions-font-family-monospace: Aeonik;
+  --content-heading-1-font-family: Aeonik;
+  --content-heading-1-weight: Bold;
+  --content-heading-2-font-family: Aeonik;
+  --content-heading-2-weight: Bold;
+  --content-heading-3-font-family: Aeonik;
+  --content-heading-3-heading-3-weight: Bold;
+  --content-heading-4-font-family: Aeonik;
+  --content-heading-4-weight: Bold;
+  --content-monospaced-font-weight: Regular;
+  --content-paragraph-paragraph-bold-weight: Semibold;
+  --content-paragraph-paragraph-medium-weight: Medium;
+  --content-paragraph-paragraph-weight: Regular;
+}
