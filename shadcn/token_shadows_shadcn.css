@@ -1,0 +1,9 @@
+:root {
+  --color-2xl-color: rgba(0, 0, 0, 0.1);
+  --color-2xs-color: rgba(0, 0, 0, 0);
+  --color-lg-color: rgba(0, 0, 0, 0.1);
+  --color-md-color: rgba(0, 0, 0, 0.1);
+  --color-sm-color: rgba(0, 0, 0, 0.1);
+  --color-xl-color: rgba(0, 0, 0, 0.1);
+  --color-xs-color: rgba(0, 0, 0, 0);
+}
