@@ -1,0 +1,34 @@
+:root {
+  --color-brand-combinations-primary-brand: #1e40af;
+  --color-brand-combinations-primary-brand-foreground: #ffffff;
+  --color-brand-combinations-quarternary-brand: #ffffff;
+  --color-brand-combinations-quarternary-brand-foreground: #0a0a0a;
+  --color-brand-combinations-quinary-brand: #ffffff;
+  --color-brand-combinations-quinary-brand-foreground: #0a0a0a;
+  --color-brand-combinations-secondary-brand: #dbeafe;
+  --color-brand-combinations-secondary-brand-foreground: #1e40af;
+  --color-brand-combinations-tertiary-brand: #172554;
+  --color-brand-combinations-tertiary-brand-foreground: #93c5fd;
+  --color-brand-neutrals-50: #fafafa;
+  --color-brand-neutrals-100: #f5f5f5;
+  --color-brand-neutrals-200: #e5e5e5;
+  --color-brand-neutrals-300: #d4d4d4;
+  --color-brand-neutrals-400: #a3a3a3;
+  --color-brand-neutrals-500: #737373;
+  --color-brand-neutrals-600: #525252;
+  --color-brand-neutrals-700: #404040;
+  --color-brand-neutrals-800: #262626;
+  --color-brand-neutrals-900: #171717;
+  --color-brand-neutrals-950: #0a0a0a;
+  --color-brand-shades-50: #eff6ff;
+  --color-brand-shades-100: #dbeafe;
+  --color-brand-shades-200: #bfdbfe;
+  --color-brand-shades-300: #93c5fd;
+  --color-brand-shades-400: #60a5fa;
+  --color-brand-shades-500: #3b82f6;
+  --color-brand-shades-600: #2563eb;
+  --color-brand-shades-700: #1d4ed8;
+  --color-brand-shades-800: #1e40af;
+  --color-brand-shades-900: #1e3a8a;
+  --color-brand-shades-950: #172554;
+}
