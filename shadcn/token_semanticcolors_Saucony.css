@@ -1,0 +1,56 @@
+:root {
+  --color-extensions-accent-0: #fafafa;
+  --color-extensions-accent-2: #e5e5e5;
+  --color-extensions-accent-3: #d4d4d4;
+  --color-extensions-backdrop: rgba(0, 0, 0, 0.6);
+  --color-extensions-body-background: #ffffff;
+  --color-extensions-border-0: #fafafa;
+  --color-extensions-border-1: #f5f5f5;
+  --color-extensions-border-3: #d4d4d4;
+  --color-extensions-border-4: #a3a3a3;
+  --color-extensions-border-5: #737373;
+  --color-extensions-destructive-border: #ef4444;
+  --color-extensions-destructive-subtle: #fef2f2;
+  --color-extensions-destructive-text: #dc2626;
+  --color-extensions-foreground-alt: #404040; /* Please use this for body text. */
+  --color-extensions-ghost: rgba(255, 255, 255, 0);
+  --color-extensions-ghost-foreground: #404040;
+  --color-extensions-ghost-hover: rgba(0, 0, 0, 0.05);
+  --color-extensions-mid-alt: #525252;
+  --color-extensions-outline: rgba(255, 255, 255, 0.1);
+  --color-extensions-outline-active: rgba(0, 0, 0, 0.05);
+  --color-extensions-outline-hover: rgba(0, 0, 0, 0.03);
+  --color-extensions-primary-hover: #404040;
+  --color-extensions-secondary-hover: #fafafa;
+  --color-card-card: #ffffff;
+  --color-card-card-foreground: #0a0a0a;
+  --color-focus-ring: #d4d4d4; /* Focus ring */
+  --color-focus-ring-error: #fca5a5; /* Focus ring error */
+  --color-general-accent: #f5f5f5; /* Level 1, official */
+  --color-general-accent-foreground: #171717;
+  --color-general-background: #ffffff; /* Use for general backgrounds, white text on dark backgrounds. */
+  --color-general-border: #e5e5e5; /* level 2, official. See docs. */
+  --color-general-destructive: #dc2626;
+  --color-general-destructive-foreground: #ffffff;
+  --color-general-foreground: #0a0a0a; /* Used for dark text on light backgrounds. */
+  --color-general-input: #ffffff;
+  --color-general-muted: #f5f5f5;
+  --color-general-muted-foreground: #737373;
+  --color-general-primary: #171717;
+  --color-general-primary-foreground: #fafafa;
+  --color-general-secondary: #f5f5f5;
+  --color-general-secondary-foreground: #171717;
+  --color-kx-shadcn-docs-obra-shadcn-ui-docs-1: #bfdbfe;
+  --color-kx-shadcn-docs-obra-shadcn-ui-docs-2: #ffedd5;
+  --color-popover-popover: #000000;
+  --color-popover-popover-foreground: #ffffff;
+  --color-sidebar-muted-sidebar-muted: #737373;
+  --color-sidebar-sidebar: #fafafa;
+  --color-sidebar-sidebar-accent: #f5f5f5;
+  --color-sidebar-sidebar-accent-foreground: #171717;
+  --color-sidebar-sidebar-border: #e5e5e5;
+  --color-sidebar-sidebar-foreground: #404040;
+  --color-sidebar-sidebar-primary: #171717;
+  --color-sidebar-sidebar-primary-foreground: #fafafa;
+  --color-sidebar-sidebar-ring: #d4d4d4;
+}
