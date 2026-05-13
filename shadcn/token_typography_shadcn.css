@@ -1,0 +1,21 @@
+:root {
+  --content-caption-font-weight: Regular;
+  --content-font-definitions-font-family: Inter;
+  --content-font-definitions-font-family-body: Inter;
+  --content-font-definitions-font-family-display-1: Inter;
+  --content-font-definitions-font-family-display-2: Inter;
+  --content-font-definitions-font-family-headings: Inter;
+  --content-font-definitions-font-family-monospace: Fira Code;
+  --content-heading-1-font-family: Inter;
+  --content-heading-1-weight: Semibold;
+  --content-heading-2-font-family: Inter;
+  --content-heading-2-weight: Semibold;
+  --content-heading-3-font-family: Inter;
+  --content-heading-3-heading-3-weight: Semibold;
+  --content-heading-4-font-family: Inter;
+  --content-heading-4-weight: Semibold;
+  --content-monospaced-font-weight: Regular;
+  --content-paragraph-paragraph-bold-weight: Semibold;
+  --content-paragraph-paragraph-medium-weight: Medium;
+  --content-paragraph-paragraph-weight: Regular;
+}
