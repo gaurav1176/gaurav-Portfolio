@@ -1,0 +1,18 @@
+:root {
+  --color-brand: #ffffff;
+  --color-brand-combinations-primary-brand: #ffffff;
+  --color-brand-combinations-primary-brand-foreground: #222222;
+  --color-brand-combinations-secondary-brand: #222222;
+  --color-brand-combinations-secondary-brand-foreground: #1e40af;
+  --color-brand-neutrals-50: #fafafa;
+  --color-brand-neutrals-100: #f5f5f5;
+  --color-brand-neutrals-200: #e5e5e5;
+  --color-brand-neutrals-300: #d4d4d4;
+  --color-brand-neutrals-400: #a3a3a3;
+  --color-brand-neutrals-500: #737373;
+  --color-brand-neutrals-600: #525252;
+  --color-brand-neutrals-700: #404040;
+  --color-brand-neutrals-800: #262626;
+  --color-brand-neutrals-900: #171717;
+  --color-brand-neutrals-950: #0a0a0a;
+}
