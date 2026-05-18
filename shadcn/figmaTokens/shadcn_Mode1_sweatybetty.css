@@ -33,9 +33,9 @@
   --brand-colors-brand-neutrals-900: #171717;
   --brand-colors-brand-neutrals-950: #0a0a0a;
   --brand-colors-brand-combinations-secondary-brand-foreground: #1e40af;
-  --brand-colors-brand-combinations-secondary-brand: #1c1f21;
+  --brand-colors-brand-combinations-secondary-brand: #d52f14;
   --brand-colors-brand-combinations-primary-brand: #ffffff;
-  --brand-colors-brand-combinations-primary-brand-foreground: #1c1f21;
+  --brand-colors-brand-combinations-primary-brand-foreground: #d52f14;
   --alpha-white-alpha-100: #ffffff;
   --alpha-white-alpha-95: rgba(255, 255, 255, 0.95);
   --alpha-white-alpha-90: rgba(255, 255, 255, 0.9);
@@ -68,8 +68,8 @@
   --alpha-black-alpha-333: rgba(0, 0, 0, 0.03);
   --alpha-black-alpha-5: rgba(0, 0, 0, 0.05);
   --alpha-black-alpha-60: rgba(0, 0, 0, 0.6);
-  --raw-colors-white: #ffffff;
   --raw-colors-black: #1c1f21;
+  --raw-colors-white: #ffffff;
   --raw-colors-red-50: #fef2f2;
   --raw-colors-red-100: #ffe2e2;
   --raw-colors-red-200: #fecaca;
@@ -116,15 +116,15 @@
   --raw-colors-green-900: #14532d;
   --raw-colors-green-950: #052e16;
   --raw-colors-brand-core-04: #ffffff;
-  --raw-colors-brand-core-01: #1c1f21;
   --raw-colors-brand-accent-06: #b9bad3;
   --raw-colors-brand-accent-05: #9081f0;
   --raw-colors-brand-accent-04: #ffc3b9;
   --raw-colors-brand-accent-03: #cdb4a0;
   --raw-colors-brand-accent-02: #dcffa5;
   --raw-colors-brand-accent-01: #b5ebfa;
-  --raw-colors-brand-core-03: #e6f5fa;
-  --raw-colors-brand-core-02: #ff6950;
+  --raw-colors-brand-core-03: #dd7788;
+  --raw-colors-brand-core-02: #406090;
+  --raw-colors-brand-core-01: #d52f14;
   --raw-colors-blue-50: #eff6ff;
   --raw-colors-blue-100: #dbeafe;
   --raw-colors-blue-200: #bfdbfe;
@@ -215,7 +215,7 @@
   --semantic-colors-extensions-outline-hover: rgba(0, 0, 0, 0.03);
   --semantic-colors-extensions-outline: rgba(255, 255, 255, 0.1);
   --semantic-colors-extensions-secondary-hover: #fafafa;
-  --semantic-colors-extensions-primary-hover: #ff6950;
+  --semantic-colors-extensions-primary-hover: #406090;
   --semantic-colors-extensions-ghost-hover: rgba(0, 0, 0, 0.05);
   --semantic-colors-extensions-ghost: rgba(255, 255, 255, 0);
   --semantic-colors-extensions-ghost-foreground: #404040;
@@ -226,7 +226,7 @@
   --semantic-colors-extensions-destructive-border: #b91c1c;
   --semantic-colors-extensions-body-background: #ffffff;
   --semantic-colors-extensions-foreground-alt: #1c1f21;
-  --semantic-colors-card-card-foreground: #1c1f21;
+  --semantic-colors-card-card-foreground: #d52f14;
   --semantic-colors-card-card: #ffffff;
   --typography-paragraph-paragraph-medium-weight: Medium;
   --typography-paragraph-paragraph-bold-weight: Semibold;
