@@ -1,8 +1,0 @@
-{
-  "tokenSetOrder": [
-    "global",
-    "variables/Desktop",
-    "variables/ANDROID",
-    "variables/IOS"
-  ]
-}
