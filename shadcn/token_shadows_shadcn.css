@@ -1,0 +1,9 @@
+:root {
+  --color-2xl-color: rgba(0, 0, 0, 0.1); /* Do not apply directly to layers. Use for 2xl shadow drop shadow effect. */
+  --color-2xs-color: rgba(0, 0, 0, 0); /* Do not apply directly to layers. Use for 2xs drop shadow effect. */
+  --color-lg-color: rgba(0, 0, 0, 0.1); /* Do not apply directly to layers. Use for lg drop shadow effect. */
+  --color-md-color: rgba(0, 0, 0, 0.1); /* Do not apply directly to layers. Use for md drop shadow 1 effect. */
+  --color-sm-color: rgba(0, 0, 0, 0.1); /* Do not apply directly to layers. Use for sm shadow 1 drop shadow effect. */
+  --color-xl-color: rgba(0, 0, 0, 0.1); /* Do not apply directly to layers. Use for xl shadow drop shadow effect. */
+  --color-xs-color: rgba(0, 0, 0, 0); /* Do not apply directly to layers. Use for xs drop shadow effect. */
+}
