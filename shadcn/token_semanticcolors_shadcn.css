@@ -1,0 +1,57 @@
+:root {
+  --color-card-card: #ffffff;
+  --color-card-card-foreground: #222222; /* General card text & icon color */
+  --color-extensions-accent-0: #f5f5f5; /* Used in Skeleton component, select states (hover, focus, active, & selected) */
+  --color-extensions-accent-2: #a3a3a3; /* Use for scroll bars, toggle default backgrounds */
+  --color-extensions-accent-3: #e5e5e5; /* Use as negative space in slider, progress bar, data tables (darker) */
+  --color-extensions-backdrop: rgba(0, 0, 0, 0.6); /* Use for modal scrims */
+  --color-extensions-body-background: #ffffff; /* Use as as alternate background color. Need more? If so, work with brands and devs. */
+  --color-extensions-border-0: #fafafa; /* Border non-color */
+  --color-extensions-border-1: #f5f5f5; /* Alt border color 1 */
+  --color-extensions-border-2: #d4d4d4; /* Alt border color 2, use for checkboxes, radio buttons, resize handle, */
+  --color-extensions-border-3: #a3a3a3; /* Alt border color 3, use for muted items */
+  --color-extensions-border-4: #737373; /* Alt border color 4, used for active checkbox state, radio buttons */
+  --color-extensions-destructive-border: #b91c1c; /* Use for destructive checkboxes, radio buttons */
+  --color-extensions-destructive-subtle: #fef2f2; /* Use for Select states (hover, active, focus) */
+  --color-extensions-destructive-text: #b91c1c; /* Use for alerts & destructive messaging and labels. */
+  --color-extensions-foreground-alt: #222222; /* Use for body text, alternate label color */
+  --color-extensions-ghost: rgba(255, 255, 255, 0); /* Ghost button and badge color, use this color with an alpha to bend tone with background */
+  --color-extensions-ghost-foreground: #404040; /* Use for ghost button label & icons */
+  --color-extensions-ghost-hover: rgba(0, 0, 0, 0.05); /* Hover color for extensions/ghost. Use an alpha to blend tone with background */
+  --color-extensions-mid-alt: #525252; /* Used as breadcrumb icon color. Also seen in… .Select & Combobox as an icon color. */
+  --color-extensions-outline: rgba(255, 255, 255, 0.1); /* Use for buttons and badges with outlines */
+  --color-extensions-outline-active: rgba(0, 0, 0, 0.05); /* Use to indicate active outline button active state */
+  --color-extensions-outline-hover: rgba(0, 0, 0, 0.03); /* Hover color for buttons with outlines */
+  --color-extensions-primary-hover: #2699fb; /* Primary hover color */
+  --color-extensions-secondary-hover: #fafafa; /* Secondary button hover color */
+  --color-focus-ring: #d4d4d4; /* Focus ring, also used in button Effects */
+  --color-focus-ring-error: #fca5a5; /* Error focus ring, also used in error button Effects */
+  --color-general-accent: #add9f7; /* Needs verification. Seen in Data Tables component as a hover effect. */
+  --color-general-accent-foreground: #222222; /* Use in data tables */
+  --color-general-background: #ffffff; /* Use primarily for statics background color */
+  --color-general-border: #e5e5e5; /* Use for border color in badges, cards, input fields, toggle groups, accordions, select, */
+  --color-general-destructive: #b91c1c; /* Destructive button background color. Also use for destructive badges. */
+  --color-general-destructive-foreground: #ffffff; /* Label & icon color for general/destructive (buttons) */
+  --color-general-foreground: #222222; /* In general, use for dark text & icons on light backgrounds */
+  --color-general-input: #ffffff; /* Use for form field background color */
+  --color-general-muted: #f5f5f5;
+  --color-general-muted-foreground: #525252; /* Use for slightly lighter foreground text. Seen in breadcrumb list. Use for Select placeholder text. */
+  --color-general-primary: #222222; /* Primary button and badge background */
+  --color-general-primary-foreground: #ffffff; /* Use for button labels (& icons) on general/primary color */
+  --color-general-secondary: #add9f7; /* Use for secondary button and badge color */
+  --color-general-secondary-foreground: #222222; /* Use to create contrast for text on general/secondary color */
+  --color-kx-shadcn-docs-shadcn-ui-docs-1: #bfdbfe; /* Documentation background color */
+  --color-kx-shadcn-docs-shadcn-ui-docs-2: #ffedd5;
+  --color-kx-shadcn-docs-shadcn-ui-docs-3: #e0007a;
+  --color-popover-popover: #222222;
+  --color-popover-popover-foreground: #ffffff;
+  --color-sidebar-muted-sidebar-muted: #737373; /* Use specifically for sidebar */
+  --color-sidebar-sidebar: #fafafa; /* Use specifically for sidebar background */
+  --color-sidebar-sidebar-accent: #f5f5f5; /* Use specifically for sidebar accent */
+  --color-sidebar-sidebar-accent-foreground: #222222; /* Use specifically for sidebar */
+  --color-sidebar-sidebar-border: #e5e5e5; /* Use specifically for sidebar */
+  --color-sidebar-sidebar-foreground: #404040; /* Use specifically for sidebar text */
+  --color-sidebar-sidebar-primary: #222222; /* Use specifically for sidebar */
+  --color-sidebar-sidebar-primary-foreground: #fafafa; /* Use specifically for sidebar */
+  --color-sidebar-sidebar-ring: #d4d4d4; /* Use specifically for sidebar */
+}
