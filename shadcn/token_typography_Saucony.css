@@ -1,0 +1,21 @@
+:root {
+  --content-caption-font-weight: Regular; /* Defines the caption per brand. Do not apply directly to layers. */
+  --content-font-definitions-font-family: NaN Metrify A Standard; /* Defines the primary font family per brand. Do not apply directly to layers. */
+  --content-font-definitions-font-family-body: NaN Metrify A Standard; /* Defines the body font per brand. Do not apply directly to layers. */
+  --content-font-definitions-font-family-display-1: NaN Metrify A Wide; /* Defines the display font family per brand. Do not apply directly to layers. */
+  --content-font-definitions-font-family-display-2: NaN Metrify A Wide; /* Defines the display font family per brand. Do not apply directly to layers. */
+  --content-font-definitions-font-family-headings: NaN Metrify A Standard; /* Defines the head font per brand. Do not apply directly to layers. */
+  --content-font-definitions-font-family-monospace: Fira Codetrify; /* Not likely needed. Do not apply directly to layers. */
+  --content-heading-1-font-family: NaN Metrify A Standard; /* Do not apply directly to layers. Use "heading 1" style instead. */
+  --content-heading-1-weight: Semibold; /* Do not apply directly to layers. Use "heading 1" style instead. */
+  --content-heading-2-font-family: NaN Metrify A Standard; /* Do not apply directly to layers. Use "heading 2" style instead. */
+  --content-heading-2-weight: Semibold; /* Do not apply directly to layers. Use "heading 2" style instead. */
+  --content-heading-3-font-family: NaN Metrify A Standard; /* Do not apply directly to layers. Use "heading 3" style instead. */
+  --content-heading-3-heading-3-weight: Semibold; /* Do not apply directly to layers. Use "heading 3" style instead. */
+  --content-heading-4-font-family: NaN Metrify A Standard; /* Do not apply directly to layers. Use "heading 4" style instead. */
+  --content-heading-4-weight: Semibold; /* Do not apply directly to layers. Use "heading 4" style instead. */
+  --content-monospaced-font-weight: Regular; /* Defines the monospaced font per brand. Do not apply directly to layers. */
+  --content-paragraph-paragraph-bold-weight: Semibold; /* Do not apply directly to layers. Use appropriate style instead. */
+  --content-paragraph-paragraph-medium-weight: Medium; /* Do not apply directly to layers. Use appropriate style instead. */
+  --content-paragraph-paragraph-weight: Regular; /* Do not apply directly to layers. Use appropriate style instead. */
+}
